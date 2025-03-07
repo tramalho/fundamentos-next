@@ -1,0 +1,11 @@
+.roxo {
+    height: 100vh;
+    background-color: #670bdd;
+    color: white;
+}
+
+.roxo h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 10px;
+}
